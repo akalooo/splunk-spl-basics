@@ -14,3 +14,12 @@ index=botsv3
 ## Results Screenshot
 
 ![Lab 01 Results](lab01-results.png)
+
+## Analysis
+
+From the results we can see which sourcetypes generate the highest event volume in the environment.
+
+This helps identify:
+- Primary data sources available for investigation
+- High-volume logs that may require tuning
+- Potential areas for threat hunting focus
