@@ -11,3 +11,6 @@ Get an overview of which sourcetypes generate the most events in the BOTS v3 dat
 index=botsv3
 | stats count as total_events by sourcetype
 | sort - total_events
+## Results Screenshot
+
+![Lab 01 Results](./image.png)
