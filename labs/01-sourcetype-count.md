@@ -13,4 +13,4 @@ index=botsv3
 | sort - total_events
 ## Results Screenshot
 
-![Lab 01 Results](image.png)
+![Lab 01 Results](lab01-results.png.png)
